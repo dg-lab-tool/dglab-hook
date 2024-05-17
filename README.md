@@ -6,13 +6,16 @@
 
 - 远程控制导出数据包，重新播放
 
+### 下载
+
+[点我下载](https://github.com/dg-lab-tool/dglab-hook/raw/master/app/release/app-release.apk)
 
 
 ### 使用方法
 
 控制方连接后，本次连接的数据包都会写入到`/storage/emulated/0/Android/data/com.bjsm.dungeonlabs/files/dglab-record/`目录下
 
-可以参考python_demo重放数据包
+可以参考[python_demo](https://github.com/dg-lab-tool/dglab-hook/tree/master/python-demo)重放数据包
 
 
 
