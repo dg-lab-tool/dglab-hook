@@ -2,6 +2,8 @@
 
 郊狼app xposed模块
 
+停止维护，新版: https://github.com/dg-lab-tool/DGLAB-Remote-Message-Dump
+
 ### 功能
 
 - 远程控制导出数据包，重新播放
